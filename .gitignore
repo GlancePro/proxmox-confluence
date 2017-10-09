@@ -1,0 +1,14 @@
+# python precompiled files:
+*.idea
+*.pyc
+*.pyo
+*~
+*.bak
+*.json
+*.txt
+!*requirements.txt
+!*readme.txt
+*/log/*
+*.log
+*local_settings.py
+*DS_Store*
